@@ -1,0 +1,272 @@
+[
+    [
+        "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572877277533,
+            "changeTime": 1572877277533,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572877277533,
+            "changeTime": 1572877277533,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572946345790,
+            "changeTime": 1572946345790,
+            "contentHash": "f0f7f39ec7e62249ee81dac2c3f1b3586a4fd52e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572946345790,
+            "changeTime": 1572946345790,
+            "contentHash": "f35f4287f25246a928cb536654d0cfe30d42563a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default\\objects\\Product__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default\\objects\\Product__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572946345812,
+            "changeTime": 1572946345812,
+            "contentHash": "e40d12c14b253f273afc85621ad21e515c32357d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default\\objects\\Product__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default\\objects\\Product__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572946345809,
+            "changeTime": 1572946345809,
+            "contentHash": "afad1c8e325b76f616d7258b7946f216e9a33a50",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default\\objects\\Product__c\\fields\\Added_Date__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default\\objects\\Product__c\\fields\\Added_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 318,
+            "modifiedTime": 1572946345797,
+            "changeTime": 1572946345797,
+            "contentHash": "181e101a896af9c25727b914dd19e95d7188e4fe",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default\\objects\\Product__c\\fields\\Amount__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default\\objects\\Product__c\\fields\\Amount__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 386,
+            "modifiedTime": 1572946345801,
+            "changeTime": 1572946345801,
+            "contentHash": "5a4b702c0c4a18273d04bd1fb281aa84d2c6433d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default\\objects\\Product__c\\fields\\Available__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default\\objects\\Product__c\\fields\\Available__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 324,
+            "modifiedTime": 1572946345803,
+            "changeTime": 1572946345803,
+            "contentHash": "58a87154f7d725e4555d76966e1012dec527a351",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default\\objects\\Product__c\\fields\\Price__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default\\objects\\Product__c\\fields\\Price__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 359,
+            "modifiedTime": 1572946345807,
+            "changeTime": 1572946345807,
+            "contentHash": "557c4c37eef8e947a4e80edd2f9ac5e1ec52ac3b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default\\objects\\Product__c\\fields\\Release_Date__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default\\objects\\Product__c\\fields\\Release_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 322,
+            "modifiedTime": 1572946345808,
+            "changeTime": 1572946345808,
+            "contentHash": "d454fba2b34ddcf303863829b5ba9057ff34c65d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default\\objects\\Product__c\\fields\\Type__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default\\objects\\Product__c\\fields\\Type__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 353,
+            "modifiedTime": 1572946345809,
+            "changeTime": 1572946345809,
+            "contentHash": "acb8fe66206fdfab5a3f4fe8c1fef912a11d1b53",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default\\objects\\Product__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default\\objects\\Product__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572946345810,
+            "changeTime": 1572946345810,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default\\objects\\Product__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default\\objects\\Product__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1572946345811,
+            "changeTime": 1572946345811,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default\\objects\\Product__c\\Product__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default\\objects\\Product__c\\Product__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5164,
+            "modifiedTime": 1572946345792,
+            "changeTime": 1572946345792,
+            "contentHash": "cb4c48312ab2a1fba4cad5b510ea77cc2e04987b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default\\objects\\Product__c\\validationRules",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default\\objects\\Product__c\\validationRules",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572946345812,
+            "changeTime": 1572946345812,
+            "contentHash": "4de29e66b129f9a0598b8456857a6a1eff0166b4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default\\objects\\Product__c\\validationRules\\Check_Release_Date.validationRule-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vdobatovkin\\vscodePackage\\task_1\\force-app\\main\\default\\objects\\Product__c\\validationRules\\Check_Release_Date.validationRule-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 423,
+            "modifiedTime": 1572946345812,
+            "changeTime": 1572946345812,
+            "contentHash": "53f7f75406df84032c36a41af2142c246401a7b7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vdobatovkin\\vscodePackage\\task_1",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vdobatovkin\\vscodePackage\\task_1",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572946291893,
+            "changeTime": 1572946291893,
+            "contentHash": "fcdc1c24364382e5a7e767585177ed21b1e171df",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
