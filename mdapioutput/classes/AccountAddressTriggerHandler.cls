@@ -7,6 +7,7 @@ public with sharing class AccountAddressTriggerHandler {
 				System.debug(logLevel, o);
 				System.debug(logLevel, o);
 				System.debug(logLevel, o);
+				System.debug(logLevel, o);
 
 			}
 		}
