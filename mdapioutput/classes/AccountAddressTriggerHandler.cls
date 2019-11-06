@@ -6,6 +6,7 @@ public with sharing class AccountAddressTriggerHandler {
 				acc.ShippingPostalCode =  acc.BillingPostalCode;
 				System.debug(logLevel, o);
 				System.debug(logLevel, o);
+				System.debug(logLevel, o);
 
 			}
 		}
