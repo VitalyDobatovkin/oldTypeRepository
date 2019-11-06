@@ -11,6 +11,10 @@
     <members>AccountAddressTriggerHandler</members>
     <name>ApexClass</name>
   </types>
+  <types>
+    <members>*</members>
+    <name>ApexTrigger</name>
+  </types>
   
   <version>47.0</version>
 </Package>
