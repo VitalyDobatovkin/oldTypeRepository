@@ -20,6 +20,7 @@
   <types>
     <name>CustomObject</name>
     <members>Product__c</members>
+    <members>Test__c</members>
   </types>
   <types>
     <name>ValidationRule</name>
